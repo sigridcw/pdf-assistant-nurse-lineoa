@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "pdf-assistant-nurse-lineoa",
   "version": "1.0.0",
   "description": "LINE OA backend for nurse PDF assistant",
