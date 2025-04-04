@@ -1,5 +1,8 @@
 // backend/index.js
 
+import dotenv from "dotenv";
+dotenv.config(); // ✅ 載入 .env
+
 import express from "express";
 import line from "@line/bot-sdk";
 
